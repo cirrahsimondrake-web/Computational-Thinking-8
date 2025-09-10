@@ -1,0 +1,6 @@
+print("")
+name=input("pick your animal ninja name:")
+location=input("pick where your animal ninja starts:")
+print("///*///*///*'''''///**////**///*")
+print(f"one day, (animal ninja name) ran out of gold...")
+print("///*///*///*'''''///**////**///*")
