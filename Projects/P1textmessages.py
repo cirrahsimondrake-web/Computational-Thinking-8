@@ -32,7 +32,7 @@ print("Princess Lis considers for a moment then finally agrees")
 print(f"{animalninjaname} releases Princess Lis ands she kicks him in the groin")
 print(f"{animalninjaname} doesn't react and just  knocks her out and kidnaps her")
 input("")
-print("///*///*///**'''''///**////**///*")and 
+print("///*///*///**'''''///**////**///*") 
 print(f"{King} finds out Princess Lis got kidnapped he shrugs")
 print(f"{King} says 'Oh well, at least i dont have to waste my gold  on makeup anymore'")
 print(r"┏━━━━┳┓╋┏┳━━━┓┏━━━┳━┓╋┏┳━━━┳┓")
