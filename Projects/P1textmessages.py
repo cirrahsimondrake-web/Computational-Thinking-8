@@ -1,5 +1,5 @@
 print("")
-animalninjaname=input("pick your animal ninja name: ")
+animalninjaname= input("pick your animal ninja name: ")
 location=input("pick where your animal ninja starts: ")
 King=input ("pick a name for the king: ")
 colorofyoursword=input("pick a color of your sword: ")
