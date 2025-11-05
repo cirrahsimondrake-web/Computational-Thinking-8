@@ -8,7 +8,7 @@ t.penup()
 t.goto(-100, -100)
 t.color("purple")
 t.pendown()
-
+#shaping of the shape
 for i in range (4):
     t.forward(100)
     t.left(40)
