@@ -9,7 +9,7 @@ t.speed(10)
 for i in range (100):
     t.forward (150 + i)
     t.left (120)
-
+#Changing color 
 
 t.color ("gold")
 t.speed(10)
